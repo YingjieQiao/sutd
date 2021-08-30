@@ -36,10 +36,10 @@ bot.action("get_tea", (ctx) => {
 })
 
 function get_tea() {
-    n = data.scams.length;
+    n = data.teas.length;
     random_int = Math.floor(Math.random() * n);
 
-    return data.scams[random_int];
+    return data.teas[random_int];
 }
 
 

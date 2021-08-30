@@ -1,5 +1,5 @@
 module.exports = {
-    scams: [
+    teas: [
         "Highest starting salary",
         "Hired within 6 months after grad",
         "11 : 1 student to prof ratio",
